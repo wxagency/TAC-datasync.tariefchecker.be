@@ -1,0 +1,1 @@
+curl https://api.tariefchecker.be/reset-popularity
